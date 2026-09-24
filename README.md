@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" alt="" width="132" height="132">
+<img src="joker.png" alt="" width="180">
 
 # Joker Kards
 
