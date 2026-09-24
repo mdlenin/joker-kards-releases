@@ -14,7 +14,8 @@ score pad and a Ticket to Ride card — scored on the table, kept for good.
 [![Latest release](https://img.shields.io/github/v/release/mdlenin/joker-kards-releases?label=latest&color=7C3AED&style=for-the-badge)](../../releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple_silicon-EC4899?style=for-the-badge&logo=apple&logoColor=white)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10_%2F_11-EC4899?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/mdlenin/joker-kards-releases/total?label=downloads&color=7C3AED&style=for-the-badge)](../../releases)
+[![Mac installs](https://img.shields.io/github/downloads/mdlenin/joker-kards-releases/latest/*.dmg?label=mac%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
+[![Windows installs](https://img.shields.io/github/downloads/mdlenin/joker-kards-releases/latest/*.exe?label=windows%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
 
 ### [⬇&nbsp; Download the latest build](../../releases/latest)
 
