@@ -68,12 +68,5 @@ one has started and opened your games. If it ever does not, put the old one back
 from the Trash.
 
 <div align="center">
-<sub>
-
-Made for one family's game nights · not affiliated with any game's publisher
-<br>
-Ticket to Ride is a trademark of Days of Wonder · Carrom, Rummy and Sevens are
-played the way this family plays them
-
-</sub>
+<sub>Made for one family's game nights · not affiliated with any game's publisher · Ticket to Ride is a trademark of Days of Wonder</sub>
 </div>
