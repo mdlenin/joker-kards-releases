@@ -1,3 +1,12 @@
+<!--
+  The two install badges read one asset by POSITION in the release's asset
+  list, which the API returns alphabetically: [1] is the .exe and [2] is the
+  .dmg while the five files are named joker-kards-<v>-arm64-mac.zip,
+  joker-kards-<v>-setup.exe, joker-kards-<v>.dmg, latest-mac.yml, latest.yml.
+  Shields cannot filter by name without printing the pattern next to the
+  number. docs/release-runbook.md (private repo) checks the order after every
+  publish; if a sixth asset ever joins, re-check the indexes.
+-->
 <div align="center">
 
 <img src="ace-of-spades.png" alt="" height="150" align="middle">
@@ -14,8 +23,8 @@ score pad and a Ticket to Ride card — scored on the table, kept for good.
 [![Latest release](https://img.shields.io/github/v/release/mdlenin/joker-kards-releases?label=latest&color=7C3AED&style=for-the-badge)](../../releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple_silicon-EC4899?style=for-the-badge&logo=apple&logoColor=white)](../../releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10_%2F_11-EC4899?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
-[![Mac installs](https://img.shields.io/github/downloads/mdlenin/joker-kards-releases/latest/*.dmg?label=mac%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
-[![Windows installs](https://img.shields.io/github/downloads/mdlenin/joker-kards-releases/latest/*.exe?label=windows%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
+[![Mac installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmdlenin%2Fjoker-kards-releases%2Freleases%2Flatest&query=%24.assets%5B2%5D.download_count&label=mac%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
+[![Windows installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmdlenin%2Fjoker-kards-releases%2Freleases%2Flatest&query=%24.assets%5B1%5D.download_count&label=windows%20installs&color=7C3AED&style=for-the-badge)](../../releases/latest)
 
 ### [⬇&nbsp; Download the latest build](../../releases/latest)
 
