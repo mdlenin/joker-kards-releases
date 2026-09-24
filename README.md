@@ -4,7 +4,7 @@
   .dmg while the five files are named joker-kards-<v>-arm64-mac.zip,
   joker-kards-<v>-setup.exe, joker-kards-<v>.dmg, latest-mac.yml, latest.yml.
   Shields cannot filter by name without printing the pattern next to the
-  number. docs/release-runbook.md (private repo) checks the order after every
+  number. The release runbook checks the order after every
   publish; if a sixth asset ever joins, re-check the indexes.
 -->
 <div align="center">
@@ -28,7 +28,6 @@ score pad and a Ticket to Ride card — scored on the table, kept for good.
 
 ### [⬇&nbsp; Download the latest build](../../releases/latest)
 
-<sub>Builds only. The source lives elsewhere and is private.</sub>
 
 </div>
 
