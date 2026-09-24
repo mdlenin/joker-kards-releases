@@ -43,8 +43,10 @@ score pad and a Ticket to Ride card — scored on the table, kept for good.
 | 🎙️ **"JK, Bini eighty"** | A command bar on every page, and an optional voice add-on that listens for its own name. Everything it hears is understood and answered on your own computer |
 | ⏱️ **A timer for slow turns** | Set it per game; it chimes, says whose time is up, and starts again. Nothing is recorded and nobody is penalised |
 | 📊 **Stats that remember** | Streaks, records, a wall of shame, each player's nemesis, and a night recap worth sending to the family chat |
+| 🂡 **Deal it to everyone's phones** | Play Rummy with a hand on each person's own phone — one board for the table, from a link, with nothing to install. Pause the game, swap somebody in mid-hand, or hand the table to another person |
+| 🃟 **The Joker, if you want him** | Optional AI: he heckles the table as you score, writes the night up afterwards, and answers questions about your own scorebook ("who wins the most?"). The app works out every number itself and the model only puts it into words — so it cannot invent a score, and everything still works with AI switched off |
 | 📺 **The table can watch** | A TV overlay for the room, and a phone scoreboard over your own wi-fi while the game runs |
-| 💾 **Nothing leaves the house** | One local database, crash-safe autosave, versioned backups before every change, and a doctor that replays every game to prove the numbers |
+| 💾 **Your games stay yours** | One database on your own computer — no accounts, nothing to sign in to — with crash-safe autosave, a backup before every change, and a doctor that replays every game to prove the numbers. The only thing that ever leaves is an online table: those hands pass through a small server so the phones can reach each other. The AI is off until you turn it on, and can run on a model on your own machine |
 
 ## Installing
 
